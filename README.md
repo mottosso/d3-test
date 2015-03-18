@@ -1,2 +1,3 @@
-# d3-test
-GitHub sites for D3.js tests
+# github-pages-demo
+
+Demo for GitHub pages
